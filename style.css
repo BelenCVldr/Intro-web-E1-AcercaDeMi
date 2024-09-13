@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(216, 201, 174);
+}
+
+#Parrafo-1-introduccion{
+    font-size: 20px;
+}
+
+ol,ul{
+    color:rgb(191, 105, 0);
+}
+
+h1{
+    color: rgb(91, 44, 11);
+    text-align: center;
+}
